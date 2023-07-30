@@ -43,7 +43,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: Zhongwei-Zhang # your GitHub user name
 orcid_id: 0000-0002-2070-1993 # your ORCID ID
-scholar_userid: https://scholar.google.com/citations?user=FCicmEMAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: FCicmEMAAAAJ # your Google Scholar ID
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
