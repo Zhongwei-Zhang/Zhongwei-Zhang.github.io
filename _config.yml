@@ -26,9 +26,9 @@ author:
   avatar           : "Photo_ZhongweiZhang.png"
   name             : "Zhongwei Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
+  bio              : "Postdoctoral Researcher at KIT"
   location         : "Germany"
-  employer         : "KIT"
+  employer         : # "KIT"
   uri              : # URL
   email            : "zhongwei.zhangss@gmail.com" 
 
