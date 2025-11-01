@@ -19,6 +19,6 @@ My research interest centers around modeling and prediction of extreme events us
 ## News
 
   * Aug. 2025: Our paper entitled "Numerical models outperform AI weather forecasts of record-breaking extremes" is on [arXiv](https://arxiv.org/abs/2508.15724) (joint work with Erich Fischer, Jakob Zscheischler, and Sebastian Engelke). See the reactions and comments on this preprint on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7364580367900491776/).
-  * Jun. 2025: I have presented a poster on AI weather forecasts of record-breaking extremes in the [EXCLAIM symposium](https://exclaim-symposium.ethz.ch/about/symposium.html) at ETH Zurich. Thanks for all the discussions. See the poster here. 
+  * Jun. 2025: I have presented a poster on AI weather forecasts of record-breaking extremes in the [EXCLAIM symposium](https://exclaim-symposium.ethz.ch/about/symposium.html) at ETH Zurich. Thanks for all the discussions. The poster can be downloaded [here](https://zhongwei-zhang.github.io/files/Poster_EXCLAIM_Jun2025_ZhongweiZhang.pdf). 
 
 
