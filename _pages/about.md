@@ -15,5 +15,9 @@ I completed my Ph.D. in Statistics under the supervision of [Raphaël Huser](htt
 
 My research interest centers around modeling and prediction of extreme events using statistical and machine learning models. Recently I am particularly interested in developing statistically sound methodologies for evaluating predictions of extremes, and investigating whether artificial intelligence (AI)-based models can predict extreme weather events and how to improve the reliability/ability of these models' prediction of extremes.
 
+
 ## News
+
+  * Aug. 2025: Our paper entitled ``Numerical models outperform AI weather forecasts of record-breaking extremes'' is on [arXiv](https://arxiv.org/abs/2508.15724) (joint work with Erich Fischer, Jakob Zscheischler, and Sebastian Engelke). See the reactions and comments on this preprint on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7364580367900491776/).
+  * Jun. 2025: I have presented a poster on AI weather forecasts of record-breaking extremes in the [EXCLAIM symposium](https://exclaim-symposium.ethz.ch/about/symposium.html) at ETH Zurich. Thanks for all the discussions. See the poster here. 
 
