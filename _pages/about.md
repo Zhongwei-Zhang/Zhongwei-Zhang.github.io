@@ -16,7 +16,6 @@ I completed my Ph.D. in Statistics under the supervision of [Raphaël Huser](htt
 My research interests include extreme value theory, machine learning, statistical forecast evaluation, and weather and climate extremes. Recently I am particularly interested in developing statistically sound methodologies for evaluating predictions of extremes, and investigating whether artificial intelligence (AI)-based models can predict extreme weather events and how to improve the prediction skills.
 
 ## News
-  * Mar. 2026: Our records paper ([arXiv](https://arxiv.org/abs/2508.15724)) has been accepted in Science Advances. More works on AI weather forecasting and extremes will be out soon. Stay tuned! 
   * Aug. 2025: Our paper entitled "Numerical models outperform AI weather forecasts of record-breaking extremes" is on [arXiv](https://arxiv.org/abs/2508.15724) (joint work with Erich Fischer, Jakob Zscheischler, and Sebastian Engelke). See the reactions and comments on this preprint on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7364580367900491776/).
   * Jun. 2025: I have presented a poster on AI weather forecasts of record-breaking extremes in the [EXCLAIM symposium](https://exclaim-symposium.ethz.ch/about/symposium.html) at ETH Zurich. Thanks for all the discussions. The poster can be downloaded [here](https://zhongwei-zhang.github.io/files/Poster_EXCLAIM_Jun2025_ZhongweiZhang.pdf). 
 
