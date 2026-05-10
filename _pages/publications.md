@@ -4,8 +4,8 @@ title:
 author_profile: true
 ---
 
-1. <ins>Zhang, Z.</ins>, Fischer, E., Zscheischler, J., and Engelke, S. (2025+). "Numerical models outperform AI weather forecasts of record-breaking extremes". Preprint on arXiv. [[arXiv link](https://arxiv.org/abs/2508.15724)]
-2. <ins>Zhang, Z.</ins>, Bolin, D., Engelke, S., and Huser, R. (2025). "Tail dependence coefficients of moving average processes driven by exponential-tailed Lévy noise". _Extremes_, in press. [[journal link](https://link.springer.com/article/10.1007/s10687-025-00517-4)]
+1. <ins>Zhang, Z.</ins>, Fischer, E., Zscheischler, J., and Engelke, S. (2026). "Physics-based models outperform AI weather forecasts of record-breaking extremes". _Science Advances_, 12, eaec1433. [[journal link](https://www.science.org/doi/10.1126/sciadv.aec1433)]
+2. <ins>Zhang, Z.</ins>, Bolin, D., Engelke, S., and Huser, R. (2026). "Tail dependence coefficients of moving average processes driven by exponential-tailed Lévy noise". _Extremes_, 29, 89–120. [[journal link](https://link.springer.com/article/10.1007/s10687-025-00517-4)]
 3. Pasche, O. C., Wider, J., <ins>Zhang, Z.</ins>, Zscheischler, J., and Engelke, S. (2025). "Validating deep-learning weather forecast models on recent high-impact extreme events". _Artificial Intelligence for the Earth Systems_, 4(1), e240033. [[journal link](https://journals.ametsoc.org/configurable/content/journals$002faies$002f4$002f1$002fAIES-D-24-0033.1.xml?t:ac=journals%24002faies%24002f4%24002f1%24002fAIES-D-24-0033.1.xml)]
 4. Buriticá, G., Hentschel, M., Pasche, O. C., Röttger, F., and <ins>Zhang, Z.</ins> (2025). "Modeling extreme events: univariate and multivariate data-driven approaches". _Extremes_, 28, 75--99. [[journal link](https://link.springer.com/article/10.1007/s10687-024-00499-9)]
 5. <ins>Zhang, Z.</ins>, Krainski, E., Zhong, P., Rue, H., and Huser, R. (2023). "Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach". _Extremes_, 26, 339--351. [[journal link](https://link.springer.com/article/10.1007/s10687-023-00463-z)]
